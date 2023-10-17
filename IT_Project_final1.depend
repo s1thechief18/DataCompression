@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1623918649 source:c:\anshu\codeblock\it_project\lempelziv_m.cpp
+	<iostream>
+	"LempelZiv.h"
+	"impoExpo.h"
+
+1623859407 c:\anshu\codeblock\it_project\lempelziv.h
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<math.h>
+
+1623851650 c:\anshu\codeblock\it_project\include\impoexpo.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1623861491 source:c:\anshu\codeblock\it_project\src\huffman_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623861491 c:\anshu\codeblock\it_project\include\huffman.h
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<unordered_map>
+	"S_Node.h"
+
+1623838509 c:\anshu\codeblock\it_project\include\s_node.h
+
+1623852581 source:c:\anshu\codeblock\it_project\src\impoexpo_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623838544 source:c:\anshu\codeblock\it_project\src\s_node_m.cpp
+	"S_Node.h"
+
+1623919678 source:c:\anshu\codeblock\it_project\main.cpp
+	<iostream>
+	"Huffman.h"
+	"LempelZiv.h"
+	"impoExpo.h"
+
+1623945299 source:c:\users\samidha\downloads\it_project\lempelziv_m.cpp
+	<iostream>
+	"LempelZiv.h"
+	"impoExpo.h"
+
+1623925559 c:\users\samidha\downloads\it_project\lempelziv.h
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<math.h>
+
+1623851650 c:\users\samidha\downloads\it_project\include\impoexpo.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1623946054 source:c:\users\samidha\downloads\it_project\main.cpp
+	<iostream>
+	"Huffman.h"
+	"LempelZiv.h"
+	"impoExpo.h"
+	<string>
+
+1623923488 c:\users\samidha\downloads\it_project\include\huffman.h
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<unordered_map>
+	"S_Node.h"
+
+1623945299 c:\users\samidha\downloads\it_project\include\s_node.h
+
+1623946054 source:c:\users\samidha\downloads\it_project\src\huffman_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623924403 source:c:\users\samidha\downloads\it_project\src\impoexpo_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623838544 source:c:\users\samidha\downloads\it_project\src\s_node_m.cpp
+	"S_Node.h"
+
+1623945299 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\lempelziv_m.cpp
+	<iostream>
+	"LempelZiv.h"
+	"impoExpo.h"
+
+1623925559 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\lempelziv.h
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<math.h>
+
+1623851650 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\include\impoexpo.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1623946054 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\main.cpp
+	<iostream>
+	"Huffman.h"
+	"LempelZiv.h"
+	"impoExpo.h"
+	<string>
+
+1623923488 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\include\huffman.h
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<unordered_map>
+	"S_Node.h"
+
+1623945299 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\include\s_node.h
+
+1623946054 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\src\huffman_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623924403 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\src\impoexpo_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623838544 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code\src\s_node_m.cpp
+	"S_Node.h"
+
+1624639758 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\lempelziv_m.cpp
+	<iostream>
+	"LempelZiv.h"
+	"impoExpo.h"
+
+1624639758 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\lempelziv.h
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	<math.h>
+
+1623851650 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\include\impoexpo.h
+	<iostream>
+	<vector>
+	<fstream>
+
+1624639809 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\main.cpp
+	<iostream>
+	"Huffman.h"
+	"LempelZiv.h"
+	"impoExpo.h"
+	<string>
+
+1624797385 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\include\huffman.h
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<unordered_map>
+	"S_Node.h"
+	"Minheap.h"
+
+1623945299 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\include\s_node.h
+
+1624801500 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\src\huffman_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1624641194 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\src\impoexpo_m.cpp
+	<iostream>
+	"Huffman.h"
+	"impoExpo.h"
+
+1623838544 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\src\s_node_m.cpp
+	"S_Node.h"
+
+1624801583 c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\include\minheap.h
+	<iostream>
+	<climits>
+	"S_Node.h"
+	<vector>
+
+1624797468 source:c:\users\samidha\downloads\sourcecoding_202001416_202001431\code file\src\minheap_m.cpp
+	"Minheap.h"
+
